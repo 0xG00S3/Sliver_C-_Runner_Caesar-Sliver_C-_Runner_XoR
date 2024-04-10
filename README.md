@@ -1,9 +1,9 @@
 # Sliver_C#_Runner_XoR
 
-There is nothing special going on here; these are super basic methods. Same implementation as the Caesar, different encoding.
+There is nothing special going on here; these are super basic methods. It has the same implementation as the Caesar, with different encoding.
 
 ## Introduction
-This is a Digital Honk Project that illustrates cybersecurity techniques within Windows environments, showcasing shellcode execution from an embedded resource. A standout feature is its use of encoded payloads, which focus on evading detection through custom encoding schemes and AMSI bypass techniques. As the creator of the Payload-Encoder and an advocate for educational purposes, this project aims to deepen the understanding of cyber security mechanisms and ethical hacking practices. This is modified code from the OSEP course to execute Sliver Payloads.
+This Digital Honk Project illustrates cybersecurity techniques within Windows environments, showcasing shellcode execution from an embedded resource. A standout feature is its use of encoded payloads, which focus on evading detection through custom encoding schemes and AMSI bypass techniques. As the creator of the Payload-Encoder and an advocate for educational purposes, this project aims to deepen the understanding of cyber security mechanisms and ethical hacking practices. This is modified code from the OSEP course to execute Sliver Payloads.
 
 ## Key Features
 - Shellcode execution from embedded resources in .NET applications.
@@ -62,7 +62,8 @@ This project is designed for educational and ethical hacking purposes only. Ensu
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
+## Acknowledgments
 
 Special thanks to the Sliver C2 framework for the payload generation capabilities.
 Gratitude to the cybersecurity community for the continuous exchange of knowledge and ethical hacking practices.
